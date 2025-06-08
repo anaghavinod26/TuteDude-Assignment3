@@ -5,5 +5,5 @@ Task 1: Python program that defines a function named factorial and takes a numbe
 
 Task 2: Python program  that uses the math module to calculate the:
 o   Square root of the number
-o   Natural logarithm (log base e) of the number
+o   Natural logarithm (log base e) of the number 
 o   Sine of the number (in radians)
