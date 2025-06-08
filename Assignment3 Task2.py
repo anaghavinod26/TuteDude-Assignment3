@@ -1,8 +1,7 @@
-a = int(input('Enter a number: '))
 from math import *
-sq = sqrt(a)
-print('Square root: ',sq)
-ln = log(a)
-print('Logarithm: ', ln)
-sine = sin(a)
-print('Sine: ',sine)
+
+a = int(input('Enter a number: '))
+
+print('Square root:',sqrt(a))
+print('Logarithm:', log(a))
+print('Sine:',sin(a))
